@@ -1,0 +1,55 @@
+.wliplugin-cta-wrap {
+	padding: 10px 20px 25px 20px;
+	border: 1px solid #ccc;
+	background-color: #fff;
+	margin-top: 10px;
+}
+.wliplugin-cta-wrap .head {
+    font-size: 20px;
+    font-weight: normal;
+}
+.wliplugin-cta-wrap .button {
+    padding: 5px 20px;
+    margin-right: 10px;
+}
+.wliplugin-cta-upgrade {
+    position: relative;
+    margin: 0px 0 15px;
+    border-left-color: #f0b849 !important;
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    padding: 1px 15px;
+}
+.wliplugin-cta-upgrade .note {
+	margin: 8px 0;
+	max-width: 75%;
+}
+.wliplugin-cta-upgrade .note::before {
+	content: url("../images/logo.png");
+	vertical-align: middle;
+	margin-right: 12px;
+}
+.wliplugin-cta-upgrade .button {
+    position: absolute;
+    top: 12px;
+    right: 25px;
+    cursor: pointer;
+}
+@media screen and (max-width: 767px) {
+    .wliplugin-cta-wrap .button {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    .wliplugin-cta-upgrade .note {
+        max-width: 100%;
+    }
+    .wliplugin-cta-upgrade .button {
+        position: static;
+    }
+    .wliplugin-cta-upgrade {
+        padding: 10px 15px;
+    }
+}
