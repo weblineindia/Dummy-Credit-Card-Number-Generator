@@ -8,11 +8,11 @@ These numbers DO NOT work in real transactions! They are for testing purposes on
 
 -----
 
-#### Support 
+### Support 
 
 We also provide a free, basic support for all users who want to use this number generator in their software project. In case you want to customize this dummy number generator to suit your website, then feel free to contact our [PHP developers](https://www.weblineindia.com/hire-php-developers.html).
 
 -----
 
-#### Online Demo of Dummy Credit Card Number Generator
+### Online Demo of Dummy Credit Card Number Generator
 We have hosted this code on our website for a quick DEMO. Please click here to [generate dummy credit card numbers](https://www.weblineindia.com/resources/test-credit-card-number-generator.html) online.
